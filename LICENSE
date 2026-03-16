@@ -1,13 +1,44 @@
-AEGIS-X AI - PROPRIETARY LICENSE & LEGAL DISCLAIMER
+EULA - END USER LICENSE AGREEMENT & LEGAL DISCLAIMER FOR AEGIS-X AI
 
-Copyright (c) 2026 M6D6R6. All rights reserved.
+Copyright (c) 2026 M6D6R6 - Matteo M. All rights reserved.
 
-1. OWNERSHIP: This software is the exclusive property of the Author (M6D6R6).
-2. RESTRICTIONS: Redistribution, resale, or unauthorized cloning of this 
-   repository is strictly prohibited without written consent.
-3. NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY.
-4. LIMITATION OF LIABILITY: THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, 
-   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
-5. ETHICAL USE: THIS TOOL IS FOR AUTHORIZED SECURITY AUDITING ONLY. 
-   THE AUTHOR ACCEPTS ZERO RESPONSIBILITY FOR ILLEGAL OR UNAUTHORIZED USE. 
-   COMPLIANCE WITH LOCAL LAWS IS THE SOLE RESPONSIBILITY OF THE USER.
+1. PROPRIETARY RIGHTS & OWNERSHIP:
+Aegis-X AI is the exclusive intellectual property of the Author (M6D6R6). 
+Redistribution, unauthorized cloning, modification for commercial redistribution, 
+or resale of this repository is strictly prohibited without explicit written 
+consent from the Author.
+
+2. AUTHORIZED USE & COMPLIANCE:
+This software is provided for professional security auditing, educational research, 
+and authorized penetration testing ONLY. Usage of this framework against targets 
+without prior written authorization (Rules of Engagement) is illegal and strictly 
+forbidden. The user is solely responsible for ensuring compliance with all local, 
+national, and international laws, including but not limited to the Computer 
+Misuse Act, GDPR, and the CFAA.
+
+3. TOTAL LIMITATION OF LIABILITY (INDEMNIFICATION):
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+DATA LOSS, SERVICE INTERRUPTION, OR SYSTEM DAMAGE) ARISING IN ANY WAY OUT OF 
+THE USE, OR MISUSE, OF THIS SOFTWARE. 
+
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH THE USER. 
+SHOULD THE SOFTWARE PROVE DEFECTIVE OR CAUSE DAMAGE, THE USER ASSUMES THE COST 
+OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+4. NO WARRANTY:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE. THE AUTHOR DOES NOT WARRANT THAT THE 
+SOFTWARE WILL MEET THE USER'S REQUIREMENTS OR THAT ITS OPERATION WILL BE 
+UNINTERRUPTED OR ERROR-FREE.
+
+5. NON-RESPONSIBILITY FOR ILLEGAL ACTIVITIES:
+THE AUTHOR DISCLAIMS ANY RESPONSIBILITY FOR ILLEGAL ACTIONS PERFORMED BY 
+THIRD PARTIES USING THIS TOOL. ANY UNAUTHORIZED USE IS AT THE SOLE RISK 
+OF THE INDIVIDUAL OPERATOR.
+
+6. ACCEPTANCE OF TERMS:
+By downloading, cloning, or using this software, you explicitly acknowledge 
+that you have read, understood, and agreed to be bound by the terms of 
+this license.
