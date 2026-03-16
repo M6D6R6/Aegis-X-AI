@@ -1,8 +1,28 @@
-# Aegis-X AI 🛡️
-Automated AI-Powered Pentest Framework.
+# Aegis-X AI 🛡️🤖
+**Autonomous Full-Spectrum Infrastructure Auditing & Offensive Security Framework**
 
-## Setup
-`pip install -r requirements.txt`
+Aegis-X AI is a high-performance framework designed for deep reconnaissance and automated vulnerability mapping of mission-critical infrastructures. It bridges the gap between raw data collection and actionable offensive intelligence.
 
-## Execution
-`sudo python3 aegis_x_ai.py`
+## 📸 System Preview
+
+### AI-Driven Terminal Interface
+![Terminal Scan](assets/terminal_scan.jpg)
+
+### Automated Audit Dashboard
+![Professional Report](assets/report.jpg)
+
+## 🌟 Key Features
+- **Full Spectrum Recon:** Automated Scanning of all 65,535 TCP ports.
+- **Service Fingerprinting:** Deep version identification and OS detection.
+- **Expert Knowledge Base:** Real-world Proof-of-Concepts (PoC) and Remediation strategies for identified flaws.
+- **High-Fidelity Reporting:** Generates professional HTML dashboards for security stakeholders.
+
+## 📊 Case Study: Metasploitable 2 Validation
+The framework was successfully validated against a multi-service target, identifying critical RCE vectors including VSFTPD 2.3.4 Backdoor and Samba exploits.
+
+- **[Browse the Full Audit Sample Report](examples/Audit_Report_192.168.50.101.html)**
+
+## 🛠️ Installation & Usage
+1. **Setup:**
+   ```bash
+   pip install -r requirements.txt --break-system-packages
