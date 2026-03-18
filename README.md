@@ -22,20 +22,17 @@
   <img src="https://img.shields.io/badge/Reporting-Enterprise-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Reporting"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Offense-CC0000?style=flat-square" alt="Red Team"/>
-  <img src="https://img.shields.io/badge/Recon-Autonomous-00ff00?style=flat-square" alt="Recon"/>
-  <img src="https://img.shields.io/badge/Reporting-Enterprise-blue?style=flat-square" alt="Reporting"/>
-  <img src="https://img.shields.io/badge/Vulnerability-Deep%20Scan-orange?style=flat-square" alt="Vuln Scan"/>
-</p>
-
 </div>
 
 ---
 
-<h2 align="center"> LEGAL DISCLAIMER & LICENSE</h2>
+<h2 align="center">⚖️ LEGAL DISCLAIMER & LICENSE</h2>
 
-<table>
+<p align="center">
+  <strong>This software is proprietary. See the <a href="LICENSE">LICENSE</a> file for the full EULA and Legal Disclaimer.</strong>
+</p>
+
+<table align="center">
 <tr>
 <td>
 
@@ -58,15 +55,9 @@ The author assumes **no responsibility** for any misuse, damage, or legal conseq
 
 ---
 
-<h2 align="center"> Executive Summary</h2>
+<h2 align="center">Executive Summary</h2>
 
 **Aegis-X AI** is an enterprise-grade offensive security framework engineered for high-fidelity reconnaissance and automated vulnerability mapping. It prioritizes the conversion of raw network data into **Actionable Offensive Intelligence**, bridging the gap between port discovery and successful remediation.
-
-### The Challenge
-Modern infrastructure auditing requires:
-- Identification of non-standard services across 65,535 ports.
-- Precise version fingerprinting to avoid false positives.
-- Immediate correlation between service versions and exploit vectors.
 
 ### The Aegis-X Solution
 Aegis-X addresses these requirements through an **autonomous multi-layered pipeline**:
@@ -95,7 +86,7 @@ Aegis-X addresses these requirements through an **autonomous multi-layered pipel
 
 ---
 
-<h2 align="center"> Core Capabilities</h2>
+<h2 align="center">Core Capabilities</h2>
 
 ### 1. Full-Spectrum Reconnaissance
 - **Global Port Coverage**: Automated scanning of the entire TCP/IP stack (0-65535).
@@ -106,36 +97,22 @@ Aegis-X addresses these requirements through an **autonomous multi-layered pipel
 - **NSE Integration**: Leverages Nmap Scripting Engine for real-time CVE identification.
 - **PoC Database**: Built-in repository of exploit paths for mission-critical services (FTP, SMB, R-Services, Databases).
 
-### 3. Executive Reporting & Remediation
-- **Client-Ready Dashboards**: Beautifully rendered HTML reports using 'Lux' institutional styling.
-- **Action Plans**: Every vulnerability includes a clear **Remediation Strategy** and hardening guide.
-
 ---
 
-<h2 align="center"> Case Study: Metasploitable 2</h2>
+<h2 align="center">Case Study: Metasploitable 2</h2>
 
 Aegis-X has been rigorously validated in controlled lab environments. During the Metasploitable 2 assessment, the framework identified:
 
 - **Critical RCE**: VSFTPD 2.3.4 Backdoor and Samba Trans2open.
-- **Insecure Services**: Unauthenticated R-Services (Rsh, Rlogin) and Telnet cleartext exposure.
+- **Insecure Services**: Unauthenticated Rsh, Rlogin and Telnet exposure.
 - **Database Leaks**: Exposed MySQL and PostgreSQL instances with remote root access.
 
 > [!IMPORTANT]
-> **[ Download the Live Audit Sample Report](examples/Audit_Report_192.168.50.101.html)**
+> **[Download the Live Audit Sample Report](examples/Audit_Report_192.168.50.101.html)**
 
 ---
 
-## ⚖️ Legal & Ethical Disclaimer
-Aegis-X AI Framework is strictly for authorized research and educational purposes. The author assumes no liability for misuse. All testing must be conducted within a pre-approved scope and with explicit written authorization (Rules of Engagement).
-
----
-<h2 align="center"> Installation & Deployment</h2>
-
-### Prerequisites
-- Python 3.10+
-- Nmap installed in system path
-- Root/sudo access (for raw socket scanning)
-- Linux environment (Recommended: Kali Linux)
+<h2 align="center">Installation & Deployment</h2>
 
 ### Quick Start
 ```bash
@@ -143,7 +120,7 @@ Aegis-X AI Framework is strictly for authorized research and educational purpose
 git clone https://github.com/M6D6R6/Aegis-X-AI.git
 cd Aegis-X-AI
 
-# 2. Setup a Virtual Environment (Recommended for system stability)
+# 2. Setup a Virtual Environment (Recommended)
 python3 -m venv venv
 source venv/bin/activate
 
