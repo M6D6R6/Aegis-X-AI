@@ -153,6 +153,9 @@ pip install -r requirements.txt
 # 4. Launch the Audit Framework
 sudo ./venv/bin/python3 aegis_x_ai.py
 
+# Optional: Make the engine executable
+chmod +x aegis_x_ai.py
+
 ```
 
 ---
