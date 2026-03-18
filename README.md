@@ -125,6 +125,10 @@ Aegis-X has been rigorously validated in controlled lab environments. During the
 
 ---
 
+## ⚖️ Legal & Ethical Disclaimer
+Aegis-X AI Framework is strictly for authorized research and educational purposes. The author assumes no liability for misuse. All testing must be conducted within a pre-approved scope and with explicit written authorization (Rules of Engagement).
+
+---
 <h2 align="center"> Installation & Deployment</h2>
 
 ### Prerequisites
