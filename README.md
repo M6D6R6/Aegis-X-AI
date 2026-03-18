@@ -143,11 +143,15 @@ Aegis-X AI Framework is strictly for authorized research and educational purpose
 git clone https://github.com/M6D6R6/Aegis-X-AI.git
 cd Aegis-X-AI
 
-# 2. Install offensive dependencies
-pip install -r requirements.txt --break-system-packages
+# 2. Setup a Virtual Environment (Recommended for system stability)
+python3 -m venv venv
+source venv/bin/activate
 
-# 3. Launch the Audit Framework
-sudo python3 aegis_x_ai.py
+# 3. Install offensive dependencies
+pip install -r requirements.txt
+
+# 4. Launch the Audit Framework
+sudo ./venv/bin/python3 aegis_x_ai.py
 
 ```
 
