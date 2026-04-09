@@ -7,7 +7,6 @@
     <img src="assets/Aegis%20X%20AI.jpeg" alt="Aegis-X AI Banner" width="600" style="border-radius: 20px;">
   </a>
   <br>
-  <em>(Click image to enlarge)</em>
 </p>
 
 <p align="center">
