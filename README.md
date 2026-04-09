@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="assets/Aegis%20X%20AI.jpeg" target="_blank">
-    <img src="assets/Aegis%20X%20AI.png" alt="Aegis-X AI Banner" width="600" style="border-radius: 20px;">
+    <img src="assets/Aegis%20X%20AI.jpeg" alt="Aegis-X AI Banner" width="600" style="border-radius: 20px;">
   </a>
   <br>
   <em>(Click image to enlarge)</em>
