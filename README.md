@@ -3,7 +3,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Aegis-X+AI+Framework;" alt="Aegis-X AI Neon Title" />
 
 <p align="center">
-  <a href="assets/Aegis%20X%20AI.png" target="_blank">
+  <a href="assets/Aegis%20X%20AI.jpeg" target="_blank">
     <img src="assets/Aegis%20X%20AI.png" alt="Aegis-X AI Banner" width="600" style="border-radius: 20px;">
   </a>
   <br>
